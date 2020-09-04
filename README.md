@@ -1,7 +1,12 @@
-# ``Welcome to myScriptr!``
+# myScriptr 
+Welcome!
 
-At the moment there are **NO DOCS**
+What is myScriptr?
+We are a ROBLOX Tech group!
 
-Docs coming soon when Products will get released.
+I wanna buy Tech, where can I do that?
+Our Hub is WIP.
 
-# [Discord](https://discord.gg/K4VEHbN)
+# Discord
+
+Join our Discord [here](https://discord.gg/K4VEHbN)
